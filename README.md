@@ -14,10 +14,3 @@ MegaAge asian dataset link: https://www.dropbox.com/s/x0gyfp12tozivjh/megaage_as
 
 # Code
 Coming soon
-
-# Ref
-@inproceedings{huang2016unsupervised,
- author = {Yunxuan Zhang and Li Liu and Cheng Li and Chen Change Loy},
- title = {Quantifying Facial Age by Posterior of Age Comparisons},
- booktitle = {British Machine Vision Conference (BMVC)},
- year = {2017}}
