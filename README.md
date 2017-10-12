@@ -1,4 +1,3 @@
-# Age_estimation_BMVC2017
 # Quantifying Facial Age by Posterior of Age Comparisons
 Yunxuan Zhang, Li Liu, Cheng Li, Chen Change Loy
 
@@ -8,10 +7,17 @@ We introduce a novel approach for annotating large quantity of in-the-wild facia
 
 # Dataset
 
-megaAge dataset link: https://www.dropbox.com/s/mnk4p75hqk6jtbw/megaage.zip?dl=0
+MegaAge dataset link: https://www.dropbox.com/s/mnk4p75hqk6jtbw/megaage.zip?dl=0
 
-megaAge asian dataset link: https://www.dropbox.com/s/x0gyfp12tozivjh/megaage_asian.zip?dl=0
+MegaAge asian dataset link: https://www.dropbox.com/s/x0gyfp12tozivjh/megaage_asian.zip?dl=0
 
 
 # Code
-coming soon
+Coming soon
+
+# Ref
+@inproceedings{huang2016unsupervised,
+ author = {Yunxuan Zhang and Li Liu and Cheng Li and Chen Change Loy},
+ title = {Quantifying Facial Age by Posterior of Age Comparisons},
+ booktitle = {British Machine Vision Conference (BMVC)},
+ year = {2017}}
